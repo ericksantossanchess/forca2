@@ -1,0 +1,33 @@
+
+div{
+    background-color: #f4cf92;
+    margin: auto;
+    width: 50%;
+    border-style: dashed;
+    border-color: black;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px
+}
+
+    
+button {
+    border-radius: 5px;
+    background-color: #7395f2; 
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+body{
+    
+    background-color: #d1854c;
+   
+}
+
+img{
+    width: 15%;
+    align-items: center;
+}
